@@ -5,9 +5,9 @@ Derma Vision is an AI-powered skin disease classifier that helps users identify 
 
 # Derma Vision - Skin Disease Classifier
 
-<img src="11111.png" alt="Derma Vision UI" width="600"/>
+<img src="UserInterface.PNG" alt="Derma Vision UI"/>
 
-*link to finetuned model uploaded on huggingface:* https://huggingface.co/abdlh/ResNet34_finetuned_for_skin_diseases_by-abdlh/blob/main/skin_model2.pth
+*link to finetuned resnet-34 model uploaded on huggingface:* https://huggingface.co/abdlh/ResNet34_finetuned_for_skin_diseases_by-abdlh/blob/main/skin_model2.pth
 
 ## Features
 - Upload skin images
@@ -19,10 +19,7 @@ Derma Vision is an AI-powered skin disease classifier that helps users identify 
     'Melanoma Skin Cancer Nevi and Moles',
     'Nail Fungus and other Nail Disease'
 - Model Trained on Dermnet dataset
-
-## UI
-![Uploading image.png…]()
-
+  
 ## Technologies
 - Python
 - Flask
