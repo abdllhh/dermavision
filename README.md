@@ -3,7 +3,9 @@
 ## Overview
 Derma Vision is an AI-powered skin disease classifier that helps users identify potential skin conditions through image analysis.
 
-![Derma Vision UI](111111.png)
+# Derma Vision - Skin Disease Classifier
+
+<img src="11111.png" alt="Derma Vision UI" width="600"/>
 
 *link to finetuned model uploaded on huggingface:* https://huggingface.co/abdlh/ResNet34_finetuned_for_skin_diseases_by-abdlh/blob/main/skin_model2.pth
 
