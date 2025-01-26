@@ -1,7 +1,7 @@
 # dermavision
 
 ## Overview
-Derma Vision is an AI-powered skin disease classifier that helps users identify potential skin conditions through image analysis.
+Derma Vision is an AI-powered skin disease classifier that helps users identify potential skin conditions through image analysis. I used the ResNet-34 Model, fine-tuned it on the DermNet dataset with 23 classes and 19,500 images. The number of classes were reduced to 6, using the confusion matrix, to increase model accuracy in real time applications to 91%. A user interface was made using HTML/CSS and Flask API was used as a bridge between the user-interface and model at the backend.
 
 # Derma Vision - Skin Disease Classifier
 
